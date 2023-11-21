@@ -11,7 +11,7 @@ Meu diferencial como analista de dados vem do meu background acadêmico (faculda
 * Inglês intermediário (conversation, listening, reading/writing)
 
 ## ✨ Curiosidades
-1. Atualmente estou fazendo __trabalho voluntário__ como UX designer para uma comunidade cristã coreana em SP
+1. __Trabalho voluntário__ atulmente como UX designer para uma comunidade cristã coreana em SP
 2. Sou minimalista (Não radical), pois a ideia de um cômodo todo branco é enlouquecedora
 3. Gosto de ler assuntos variados, Educação Física, Nutrição, Fotografia, Psicologia, Redes Neurais, Coreano e por aí vai...
 4. Gosto de aprender idiomas, recentemente iniciei os estudos de Coreano (o alfabeto já consigo ler)
