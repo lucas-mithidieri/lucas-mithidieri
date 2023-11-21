@@ -10,10 +10,12 @@ Meu diferencial como analista de dados vem do meu background acadêmico (faculda
 * UX design/writing aplicado ao projeto (pensando em quem vai ler o projeto/gráficos)
 
 ## ✨ Curiosidades
-1. Sou minimalista (Não radical), pois a ideia de um cômodo todo branco é enlouquecedora
-2. Gosto de ler assuntos variados, Educação Física, Nutrição, Fotografia, Psicologia, Redes Neurais, Coreano e por aí vai...
-3. Gosto de aprender idiomas, recentemente iniciei os estudos de Coreano (Ja sei o alfabeto)
-4. P
+1. Atualmente estou fazendo __trabalho voluntário__ como UX designer para uma comunidade cristã coreana em SP
+2. Sou minimalista (Não radical), pois a ideia de um cômodo todo branco é enlouquecedora
+3. Gosto de ler assuntos variados, Educação Física, Nutrição, Fotografia, Psicologia, Redes Neurais, Coreano e por aí vai...
+4. Gosto de aprender idiomas, recentemente iniciei os estudos de Coreano (o alfabeto já consigo ler)
+5. P
+
 
 <!--
 **lucas-mithidieri/lucas-mithidieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
