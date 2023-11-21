@@ -1,4 +1,10 @@
-### Hi there 👋
+### Seja muito bem vindo 👋
+
+Me chamo Lucas Mithidieri, sou Analista de dados e é um prazer ter você aqui!
+
+Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de dados da Tripleten Yandex. Curso no qual aprendi bastante sobre o universo dos dados e pude não só encarar, mas vencer variados desafios utilizando as principais bibliotecas do Python (pandas, matplotlib, numpy, tensorflow..) e muitas outras.
+
+Meu diferencial como analista de dados vem do meu background acadêmico, faculdade de Design Industrial em que aprendi a metodologia de solução de problemas e abordagem do Design Thinking, algo que faz toda diferença na solução de problemas, uma vez que não se busca solucionar o problema de uma vez mas sim compreende-lo em diferentes aspectos.
 
 <!--
 **lucas-mithidieri/lucas-mithidieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
