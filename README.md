@@ -12,10 +12,11 @@ Meu diferencial como analista de dados vem do meu background acadêmico (faculda
 
 ## ✨ Curiosidades
 1. __Trabalho voluntário__ como UX designer atualmente para uma comunidade cristã coreana em SP
-2. Sou minimalista (Não radical), pois a ideia de um cômodo todo branco é enlouquecedora
-3. Gosto de ler assuntos variados, Educação Física, Nutrição, Fotografia, Psicologia, Redes Neurais, Coreano e por aí vai...
-4. Gosto de aprender idiomas, recentemente iniciei os estudos de Coreano (o alfabeto já consigo ler)
-5. Montei uma loja virtual durante a pandemia, fui o Severino, fiz (logística, design, mkt, front e back) mas não foi pro ar
+2. Sou Designer Industrial mas não sei desenhar (Sinto informar..)
+3. Sou minimalista (Não radical), pois a ideia de um cômodo todo branco é enlouquecedora
+4. Gosto de ler assuntos variados, Educação Física, Nutrição, Fotografia, Psicologia, Redes Neurais, Coreano e por aí vai...
+5. Gosto de aprender idiomas, recentemente iniciei os estudos de Coreano (o alfabeto já consigo ler)
+6. Montei uma loja virtual durante a pandemia, fui o Severino, fiz (logística, design, mkt, front e back) mas não foi pro ar
 
 
 <!--
