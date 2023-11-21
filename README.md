@@ -7,10 +7,10 @@ Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de 
 ## 💎 Diferenciais
 Meu diferencial como analista de dados vem do meu background acadêmico (faculdade de Design Industrial) em que aprendi sobre a metodologia de solução de problemas e abordagem do Design Thinking, algo que faz toda diferença na maneira como busco a solução de problemas, uma vez que o que procuro é compreender bem os problemas ao máximo e em diferentes aspectos para então formular uma solução robusta e eficiente.
 * Design thinking
-* UX design/writing aplicado ao projeto (pensando em quem vai ler o projeto e interpretar gráficos)
+* UX design/writing aplicado ao projeto (pensando em quem vai ler o projeto/gráficos)
 
-## Curiosidades
-1. Sou minimalista
+## ✨ Curiosidades
+1. Sou minimalista (Não radical), pois a ideia de um cômodo todo branco é enlouquecedora
 2. Gosto de ler assuntos variados, Educação Física, Nutrição, Fotografia, Psicologia, Redes Neurais, Coreano e por aí vai...
 3. Gosto de aprender idiomas, recentemente iniciei os estudos de Coreano (Ja sei o alfabeto)
 4. P
