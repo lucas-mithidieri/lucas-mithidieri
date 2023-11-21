@@ -1,6 +1,6 @@
 ### Seja muito bem vindo 👋
 
-Me chamo Lucas Mithidieri, sou Analista de dados e é um prazer ter você aqui!
+Me chamo Lucas Mithidieri, sou Analista de dados e é um imenso prazer ter você aqui!
 
 Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de dados da Tripleten Yandex. Curso no qual aprendi bastante sobre o universo dos dados e pude não só encarar, mas vencer variados desafios utilizando as principais bibliotecas do Python (pandas, matplotlib, numpy, tensorflow..) e muitas outras.
 
