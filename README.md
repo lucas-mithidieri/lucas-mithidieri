@@ -4,6 +4,12 @@ Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/)
 
 Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de dados da Tripleten Yandex. Curso no qual aprendi bastante sobre o universo dos dados e pude não só encarar, mas vencer variados desafios utilizando as principais bibliotecas do Python (pandas, matplotlib, numpy, tensorflow..) e muitas outras.
 
+## 🤌🏼 Ja me aventurei com
+* Ada
+* AutoLISP
+* C++, C#, Cuda
+* CSS, HTML, JavaScript, PHP, SQL
+
 ## 💎 Diferenciais
 Meu diferencial como analista de dados vem do meu background acadêmico (faculdade de Design Industrial) em que aprendi sobre a metodologia de solução de problemas e abordagem do Design Thinking, algo que faz toda diferença na maneira como busco a solução de problemas, uma vez que o que procuro é compreender bem os problemas ao máximo e em diferentes aspectos para então formular uma solução robusta e eficiente.
 * Design thinking
