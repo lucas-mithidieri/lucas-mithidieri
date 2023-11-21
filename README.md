@@ -25,7 +25,9 @@ Meu diferencial como analista de dados vem do meu background acadêmico (faculda
 6. Montei uma loja virtual durante a pandemia, fui o Severino, fiz (logística, design, mkt, front e back) mas não foi pro ar
 
 ## 📫 Fale comigo [aqui](https://www.linkedin.com/in/lucas-mithidieri-pires/) 
+Vai ser um prazer me conectar e trocar experiências! 
 
+Obrigado, Thankyou, 감사합니다 !
 <!--
 **lucas-mithidieri/lucas-mithidieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
