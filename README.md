@@ -8,6 +8,7 @@ Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de 
 Meu diferencial como analista de dados vem do meu background acadêmico (faculdade de Design Industrial) em que aprendi sobre a metodologia de solução de problemas e abordagem do Design Thinking, algo que faz toda diferença na maneira como busco a solução de problemas, uma vez que o que procuro é compreender bem os problemas ao máximo e em diferentes aspectos para então formular uma solução robusta e eficiente.
 * Design thinking
 * UX design/writing aplicado ao projeto (pensando em quem vai ler o projeto/gráficos)
+* Inglês intermediário (conversation, listening, reading/writing)
 
 ## ✨ Curiosidades
 1. Atualmente estou fazendo __trabalho voluntário__ como UX designer para uma comunidade cristã coreana em SP
