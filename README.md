@@ -12,7 +12,7 @@ Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de 
 
 ## 💎 Diferenciais
 Meu destaque como analista de dados vem da minha formação em Design Industrial. Durante a faculdade, absorvi diversos métodos de solução de problemas, com ênfase no Design Thinking.
-A vantagem que isso traz é uma abordagem aprofundada na compreensão dos desafios, resultando em soluções mais eficientes da análise de dados.
+A vantagem que isso traz é uma abordagem aprofundada na compreensão dos desafios, resultando em soluções mais eficientes e interpretáveis na análise de dados.
 * Design thinking
 * UX design/writing aplicado ao projeto (pensando em quem vai ler o projeto/gráficos)
 * Inglês intermediário (conversation, listening, reading/writing)
