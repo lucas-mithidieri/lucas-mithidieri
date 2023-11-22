@@ -18,7 +18,7 @@ A vantagem que isso traz é uma abordagem aprofundada na compreensão dos desafi
 * Inglês intermediário (conversation, listening, reading/writing)
 
 ## ✨ Curiosidades
-1. __Trabalho voluntário__ como UX designer atualmente para uma comunidade cristã coreana em SP
+1. __Trabalho voluntário__ como UX designer atualmente em uma comunidade cristã coreana em SP
 2. Sou Designer Industrial mas não sei desenhar (Sinto informar..)
 3. Sou minimalista (Não radical), pois a ideia de um cômodo todo branco é enlouquecedora
 4. Gosto de ler assuntos variados, Educação Física, Nutrição, Fotografia, Psicologia, Redes Neurais, Coreano e por aí vai...
