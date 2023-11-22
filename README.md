@@ -28,7 +28,7 @@ A vantagem que isso traz é uma abordagem aprofundada na compreensão dos desafi
 ## 📫 Fale comigo [aqui](https://www.linkedin.com/in/lucas-mithidieri-pires/) 
 Vai ser um prazer me conectar e trocar experiências! 
 
-Obrigado, Thankyou, 감사합니다 !
+Obrigado, Thank you, 감사합니다 !
 <!--
 **lucas-mithidieri/lucas-mithidieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
