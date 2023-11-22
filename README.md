@@ -8,7 +8,7 @@ Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de 
 * Ada
 * AutoLISP
 * C++, C#, Cuda
-* CSS, HTML, JavaScript, PHP, SQL
+* CSS, HTML, JavaScript, PHP, SQL, SOAP
 
 ## 💎 Diferenciais
 Meu destaque como analista de dados vem da minha formação em Design Industrial. Durante a faculdade, absorvi diversos métodos de solução de problemas, com ênfase no Design Thinking.
