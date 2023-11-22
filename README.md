@@ -11,7 +11,8 @@ Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de 
 * CSS, HTML, JavaScript, PHP, SQL
 
 ## 💎 Diferenciais
-Meu diferencial como analista de dados vem do meu background acadêmico (faculdade de Design Industrial) em que aprendi sobre a metodologia de solução de problemas e abordagem do Design Thinking, algo que faz toda diferença na maneira como busco a solução de problemas, uma vez que o que procuro é compreender bem os problemas ao máximo e em diferentes aspectos para então formular uma solução robusta e eficiente.
+Meu destaque como analista de dados vem da minha formação em Design Industrial. Durante a faculdade, absorvi diversos métodos de solução de problemas, com ênfase no Design Thinking.
+A vantagem que isso traz é uma abordagem aprofundada na compreensão dos desafios, resultando em soluções mais eficientes da análise de dados.
 * Design thinking
 * UX design/writing aplicado ao projeto (pensando em quem vai ler o projeto/gráficos)
 * Inglês intermediário (conversation, listening, reading/writing)
