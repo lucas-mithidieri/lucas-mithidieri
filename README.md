@@ -14,19 +14,18 @@ Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de 
 * CSS, HTML, JavaScript, PHP, SQL, SOAP
 
 ## 💎 Diferenciais
-Meu destaque como analista de dados vem da minha formação em Design Industrial. Durante a faculdade, absorvi diversos métodos de solução de problemas, com ênfase no Design Thinking.
-A vantagem que isso traz é uma abordagem aprofundada na compreensão dos desafios, resultando em soluções mais eficientes e interpretáveis na análise de dados.
+A formação em Design Industrial me ajuda muito no desenvolvimento dos projetos, em especial a metodologia do Design Thinking.
 * Design thinking
-* UX design/writing aplicado ao projeto (pensando em quem vai ler o projeto/gráficos)
-* Inglês intermediário (conversation, listening, reading/writing)
+* UX design/writing
+* Inglês intermediário
 
 ## ✨ Curiosidades
 1. __Trabalho voluntário__ como UX designer atualmente em uma comunidade cristã coreana em SP
-2. Sou Designer Industrial formado.
+2. Designer Industrial formado.
 3. Sou minimalista não radical, (a ideia de um cômodo todo branco é enlouquecedora)..
 4. Gosto de ler livros acadêmicos, como Educação física, Nutrição..
 5. Aprender idiomas é desafiador mas eu gosto, recentemente iniciei os estudos de Coreano (o alfabeto e algumas palavras já consigo)
-6. Durante a pandemia montei uma loja virtual, projetei todo o processo (logística, design, mkt, front e back).
+6. Durante a pandemia montei uma loja virtual, projetei todo o processo (logística, design, mkt, frontend e backend).
 
 ## 📫 Fale comigo [aqui](https://www.linkedin.com/in/lucas-mithidieri-pires/) 
 Vai ser um prazer me conectar e trocar experiências! 
