@@ -28,7 +28,7 @@ A formação em Design Industrial me ajuda muito no desenvolvimento dos projetos
 6. Durante a pandemia montei uma loja virtual, projetei todo o processo (logística, design, mkt, frontend e backend).
 
 ## 📫 Fale comigo [aqui](https://www.linkedin.com/in/lucas-mithidieri-pires/) 
-Vai ser um prazer me conectar e trocar experiências! 
+Fique à vontade para se conectar e trocar experiências! 
 
 Obrigado, Thank you, 감사합니다 !
 <!--
