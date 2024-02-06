@@ -5,7 +5,7 @@ Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/)
 Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de dados da Tripleten Yandex. Curso em que aprendi bastante e pude vencer variados desafios com auxílio das principais bibliotecas do Python (pandas, matplotlib, numpy, tensorflow..) e muitas outras.
 
 ## (2024) Estou me aventurando com
-* Langchain e modelos LLM open-source
+* [Langchain e modelos LLM open-source](https://github.com/lucas-mithidieri/langchain/tree/main)
 
 ## 🦉 Ja me aventurei com
 * Ada
