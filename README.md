@@ -1,8 +1,11 @@
 ### Seja muito bem vindo 👋, acesse aqui >> [meus Projetos de Data Science](https://github.com/lucas-mithidieri/projetos) 🌎
 
-Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/) , sou Analista de dados e é um imenso prazer ter você aqui!
+Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/) , sou Analista de Dados e é um imenso prazer ter você aqui!
 
-Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de dados da Tripleten Yandex. Curso no qual aprendi bastante sobre o universo dos dados e pude não apenas encarar, mas vencer variados desafios utilizando as principais bibliotecas do Python (pandas, matplotlib, numpy, tensorflow..) e muitas outras.
+Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de dados da Tripleten Yandex. Curso em que aprendi bastante e pude vencer variados desafios com auxílio das principais bibliotecas do Python (pandas, matplotlib, numpy, tensorflow..) e muitas outras.
+
+## (2024) Estou me aventurando com
+* Langchain e modelos LLM open-source
 
 ## 🦉 Ja me aventurei com
 * Ada
@@ -19,11 +22,11 @@ A vantagem que isso traz é uma abordagem aprofundada na compreensão dos desafi
 
 ## ✨ Curiosidades
 1. __Trabalho voluntário__ como UX designer atualmente em uma comunidade cristã coreana em SP
-2. Sou Designer Industrial mas não sei desenhar (Sinto informar..)
-3. Sou minimalista (Não radical), pois a ideia de um cômodo todo branco é enlouquecedora
-4. Gosto de ler assuntos variados, Educação Física, Nutrição, Fotografia, Psicologia, Redes Neurais, Coreano e por aí vai...
-5. Gosto de aprender idiomas, recentemente iniciei os estudos de Coreano (o alfabeto já consigo ler)
-6. Montei uma loja virtual durante a pandemia, fui o Severino, fiz (logística, design, mkt, front e back) mas não foi pro ar
+2. Sou Designer Industrial formado.
+3. Sou minimalista não radical, (a ideia de um cômodo todo branco é enlouquecedora)..
+4. Gosto de ler livros acadêmicos, como Educação física, Nutrição..
+5. Aprender idiomas é desafiador mas eu gosto, recentemente iniciei os estudos de Coreano (o alfabeto e algumas palavras já consigo)
+6. Durante a pandemia montei uma loja virtual, projetei todo o processo (logística, design, mkt, front e back).
 
 ## 📫 Fale comigo [aqui](https://www.linkedin.com/in/lucas-mithidieri-pires/) 
 Vai ser um prazer me conectar e trocar experiências! 
