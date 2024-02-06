@@ -1,4 +1,4 @@
-### Seja muito bem vindo 👋, acesse aqui o meu [Portfolio](https://github.com/lucas-mithidieri/projetos) 🌎
+### Seja muito bem vindo 👋, acesse aqui meus [Projetos de Data Science](https://github.com/lucas-mithidieri/projetos) 🌎
 
 Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/) , sou Analista de dados e é um imenso prazer ter você aqui!
 
