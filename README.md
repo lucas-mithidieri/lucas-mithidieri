@@ -2,7 +2,9 @@
 
 Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/) , sou Analista de Dados e é um imenso prazer ter você aqui!
 
-Desde cedo sempre fui curioso sobre como funcionam as coisas, e acho que é por isso que segui pela área da tecnologia e mais tarde analytics. Solucionar um problema é legal, mas satisfatório mesmo é encontrar a melhor solução para determinado problema. 
+Desde cedo sempre fui curioso sobre o funcionamento das coisas, e acho que é por isso que segui pela área da tecnologia, e mais tarde analytics e AI. Eu gosto de desafios, e a tecnologia tem um monte deles. 
+
+Solucionar um problema é até legal, mas satisfatório mesmo é encontrar a solução ideal de determinado problema. 
 
 Aprender a gente nunca para.. ainda bem!
 
