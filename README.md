@@ -25,12 +25,13 @@ A formação em Design Industrial me ajuda muito no desenvolvimento dos projetos
 * Inglês intermediário
 
 ## ✨ Curiosidades
-1. __Trabalho voluntário__ como UX designer atualmente em uma comunidade cristã coreana em SP
-2. Sou Designer Industrial (bacharel).
-3. Sou minimalista não radical, (a ideia de um cômodo todo branco é enlouquecedora)..
-4. Gosto de ler livros acadêmicos, como Educação física, Nutrição..
-5. Aprender idiomas é desafiador mas eu gosto, recentemente iniciei os estudos de Coreano (o alfabeto e algumas palavras já consigo)
-6. Durante a pandemia montei uma loja virtual, projetei todo o processo (logística, design, mkt, frontend e backend).
+1. __Trabalho voluntário__ como UX designer atualmente em uma comunidade cristã Coreana em SP
+2. Faço parte de uma comunidade cristã Coreana e Estou aprendendo Coreano (nível básico)
+3. Meu hobby é fotografia urbana e abstrata. (@another.eu)
+4. Sou Designer Industrial (bacharel).
+5. Sou minimalista (mas umas cores na parede acho legal).
+6. Você encontra vários assuntos na minha livraria, de tecnologia até área da saúde.
+7. Fui cofundador de um plugin de AutoCAD no ramo da engenharia.
 
 ## 📫 Fale comigo [aqui](https://www.linkedin.com/in/lucas-mithidieri-pires/) 
 Fique à vontade para se conectar e trocar experiências! 
