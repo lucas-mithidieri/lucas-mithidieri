@@ -10,12 +10,11 @@ Aprender a gente nunca para.. ainda bem!
 * [Inteligência artificial e modelos LLM open-source](https://github.com/lucas-mithidieri/langchain/tree/main)
 
 ## 🦉 Ja me aventurei com
-* Ada
-* AutoLISP
-* C++, C#, Cuda
 * Python
 * Banco de dados - SQL, SOAP
 * Desenvolvimento Web - CSS, HTML, JavaScript, PHP
+* Ada, AutoLISP
+* C++, C#, Cuda
 
 ## ☄️ Projetos
 * [Data Science, Analytics e Machine Learning](https://github.com/lucas-mithidieri/projetos)
