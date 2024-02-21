@@ -1,11 +1,14 @@
-### Seja muito bem vindo 👋, acesse aqui >> [meus Projetos de Data Science](https://github.com/lucas-mithidieri/projetos) 🌎
+### Seja muito bem vindo 👋
 
 Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/) , sou Analista de Dados e é um imenso prazer ter você aqui!
 
 Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de dados da Tripleten Yandex. Curso em que aprendi bastante e pude vencer variados desafios com auxílio das principais bibliotecas do Python (pandas, matplotlib, numpy, tensorflow..) e muitas outras.
 
+## Projetos
+* [Data Science](https://github.com/lucas-mithidieri/projetos)
+
 ## (2024) Estou me aventurando com
-* [Langchain e modelos LLM open-source](https://github.com/lucas-mithidieri/langchain/tree/main)
+* [Inteligência artificial e modelos LLM open-source](https://github.com/lucas-mithidieri/langchain/tree/main)
 
 ## 🦉 Ja me aventurei com
 * Ada
