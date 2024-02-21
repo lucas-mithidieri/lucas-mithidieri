@@ -26,7 +26,7 @@ A formação em Design Industrial me ajuda muito no desenvolvimento dos projetos
 
 ## ✨ Curiosidades
 1. __Trabalho voluntário__ como UX designer atualmente em uma comunidade cristã coreana em SP
-2. Designer Industrial formado.
+2. Sou Designer Industrial (bacharel).
 3. Sou minimalista não radical, (a ideia de um cômodo todo branco é enlouquecedora)..
 4. Gosto de ler livros acadêmicos, como Educação física, Nutrição..
 5. Aprender idiomas é desafiador mas eu gosto, recentemente iniciei os estudos de Coreano (o alfabeto e algumas palavras já consigo)
