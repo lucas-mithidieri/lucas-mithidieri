@@ -2,7 +2,9 @@
 
 Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/) , sou Analista de Dados e é um imenso prazer ter você aqui!
 
-Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de dados da Tripleten Yandex. Curso em que aprendi bastante e pude vencer variados desafios com auxílio das principais bibliotecas do Python (pandas, matplotlib, numpy, tensorflow..) e muitas outras.
+Desde cedo sempre fui curioso sobre como funcionam as coisas, e acho que é por isso que segui pela área da tecnologia e mais tarde analytics. Solucionar um problema é legal, mas satisfatório mesmo é encontrar a melhor solução para determinado problema. 
+
+Aprender, a gente nunca para.. e eu gosto muito.
 
 ## 🚀 Atualmente me aventurando com
 * [Inteligência artificial e modelos LLM open-source](https://github.com/lucas-mithidieri/langchain/tree/main)
