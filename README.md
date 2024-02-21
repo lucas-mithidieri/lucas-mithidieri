@@ -13,7 +13,9 @@ Aprender a gente nunca para.. ainda bem!
 * Ada
 * AutoLISP
 * C++, C#, Cuda
-* CSS, HTML, JavaScript, PHP, SQL, SOAP
+* Python
+* Banco de dados - SQL, SOAP
+* Desenvolvimento Web - CSS, HTML, JavaScript, PHP
 
 ## ☄️ Projetos
 * [Data Science, Analytics e Machine Learning](https://github.com/lucas-mithidieri/projetos)
