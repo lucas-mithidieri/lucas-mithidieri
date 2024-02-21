@@ -14,7 +14,7 @@ Fui considerado aluno destaque nos módulos iniciais do BootCamp de Ciência de 
 * CSS, HTML, JavaScript, PHP, SQL, SOAP
 
 ## ☄️ Projetos
-* [Data Science](https://github.com/lucas-mithidieri/projetos)
+* [Data Science, Analytics e Machine Learning](https://github.com/lucas-mithidieri/projetos)
 
 ## 💎 Diferenciais
 A formação em Design Industrial me ajuda muito no desenvolvimento dos projetos, em especial a metodologia do Design Thinking.
