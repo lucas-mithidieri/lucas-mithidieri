@@ -4,7 +4,7 @@ Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/)
 
 Desde cedo sempre fui curioso sobre como funcionam as coisas, e acho que é por isso que segui pela área da tecnologia e mais tarde analytics. Solucionar um problema é legal, mas satisfatório mesmo é encontrar a melhor solução para determinado problema. 
 
-Aprender, a gente nunca para.. e eu gosto muito.
+Aprender a gente nunca para.. ainda bem!
 
 ## 🚀 Atualmente me aventurando com
 * [Inteligência artificial e modelos LLM open-source](https://github.com/lucas-mithidieri/langchain/tree/main)
