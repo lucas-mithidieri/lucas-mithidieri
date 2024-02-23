@@ -4,8 +4,6 @@ Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/)
 
 Desde cedo sempre fui curioso sobre o funcionamento das coisas, e acho que é por isso que segui pela área da tecnologia, e mais tarde analytics e AI. Eu gosto de desafios, e a tecnologia tem um monte deles. 
 
-Solucionar um problema é até legal, mas satisfatório mesmo é encontrar a solução ideal de determinado problema. 
-
 Aprender a gente nunca para.. ainda bem!
 
 ## 🚀 Atualmente me aventurando com
