@@ -20,10 +20,10 @@ Aprender a gente nunca para.. ainda bem!
 * [Data Science, Analytics e Machine Learning](https://github.com/lucas-mithidieri/projetos)
 
 ## 💎 Diferenciais
-A formação em Design Industrial me ajuda muito no desenvolvimento dos projetos, em especial a metodologia do Design Thinking.
 * Design thinking
 * UX design/writing
 * Inglês intermediário
+* Coreano básico
 
 ## ✨ Curiosidades
 1. __Trabalho voluntário__ como UX designer atualmente em uma comunidade cristã Coreana em SP
