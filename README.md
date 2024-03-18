@@ -8,6 +8,7 @@ Aprender a gente nunca para.. ainda bem!
 
 ## 🚀 Atualmente me aventurando com
 * [Inteligência artificial e modelos LLM open-source](https://github.com/lucas-mithidieri/langchain/tree/main)
+* Cloud computing Microsoft Azure
 
 ## 🦉 Ja me aventurei com
 * Python
