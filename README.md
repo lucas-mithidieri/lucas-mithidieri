@@ -19,6 +19,7 @@ Aprender a gente nunca para.. ainda bem!
 
 ## ☄️ Projetos
 * [Data Science, Analytics e Machine Learning](https://github.com/lucas-mithidieri/projetos)
+* [PYIDE - IDE python](https://github.com/lucas-mithidieri/projetos-pessoais/tree/main/PYIDE)
 
 ## 💎 Diferenciais
 * Design thinking
