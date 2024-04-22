@@ -1,6 +1,6 @@
 ### Seja muito bem vindo 👋
 
-Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/) , sou Data Scientist e é um imenso prazer ter você aqui!
+Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/) , sou Cientista de Dados e é um imenso prazer ter você aqui!
 
 Desde cedo sempre fui curioso sobre o funcionamento das coisas, e acho que é por isso que segui pela área da tecnologia, e mais tarde analytics e AI. Eu gosto de desafios, e a tecnologia tem um monte deles. 
 
