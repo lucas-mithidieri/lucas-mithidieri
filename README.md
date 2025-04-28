@@ -1,17 +1,27 @@
 ### Seja muito bem vindo 👋
 
-Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/) , sou Cientista de Dados e é um imenso prazer ter você aqui!
+Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/) , sou Programador e é um imenso prazer ter você aqui!
 
 Desde cedo sempre fui curioso sobre o funcionamento das coisas, e acredito que é por isso que segui pela área da tecnologia, e mais tarde analytics e AI. Eu gosto de desafios, e a tecnologia tem um monte deles. 
 
 Aprender a gente nunca para.. ainda bem!
 
+## 💼 Emprego atual
+Hoje atuo como programador full-stack em uma indústria de médio porte em São Paulo e sou responsável por:
+* Concepção da jornada de usuário
+* Criação de banco de dados
+* Desenvolvimento de APIs (RestFul)
+* Prototipação (figma)
+* Desenvolvimento (flutter)
+* Validação com os stakeholders (durante todo o processo)
+
 ## 🚀 Atualmente me aventurando com
-* [Inteligência artificial e modelos LLM open-source](https://github.com/lucas-mithidieri/langchain/tree/main)
-* Cloud computing Microsoft Azure
+* Flutter
 
 ## 🦉 Ja me aventurei com
-* Python
+* [Inteligência artificial e modelos LLM open-source](https://github.com/lucas-mithidieri/langchain/tree/main)
+* AI Cloud computing Microsoft
+* Python (Machine Learning, Deep Learning)
 * Banco de dados - SQL, SOAP
 * Desenvolvimento Web - CSS, HTML, JavaScript, PHP
 * Ada, AutoLISP
@@ -24,8 +34,7 @@ Aprender a gente nunca para.. ainda bem!
 ## 💎 Diferenciais
 * Design thinking
 * UX design/writing
-* Inglês intermediário
-* Coreano básico
+* Inglês avançado (técnico), intermediário (conversação)
 
 ## ✨ Curiosidades
 1. __Trabalho voluntário__ como UX designer atualmente em uma comunidade cristã Coreana em SP
