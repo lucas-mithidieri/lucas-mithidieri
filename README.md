@@ -1,54 +1,77 @@
-### Seja muito bem vindo 👋
+### Atualizado em 16/06/2025
 
-Me chamo [Lucas Mithidieri](https://www.linkedin.com/in/lucas-mithidieri-pires/) , sou Programador e é um imenso prazer ter você aqui!
+# Olá, me chamo Lucas Mithidieri 👋
 
-Desde cedo sempre fui curioso sobre o funcionamento das coisas, e acredito que é por isso que segui pela área da tecnologia. Eu gosto de desafios, e a tecnologia me proporciona um monte deles. 
+Sou desenvolvedor full-stack em constante desenvolvimento, atuando atualmente em uma indústria de médio porte em São Paulo. Tenho formação em Design Industrial, e ao longo da carreira me especializei na criação de soluções que integram usabilidade, tecnologia e negócio.
 
-Aprender a gente nunca para.. ainda bem!
+Desde cedo, fui motivado pela curiosidade em entender como as coisas funcionam — foi esse impulso que me levou à tecnologia, onde encontrei um campo fértil para desafios intelectuais e crescimento constante.
 
-## 💼 Emprego atual
-Hoje atuo como programador full-stack em uma indústria de médio porte em São Paulo e sou responsável por:
-* Concepção da jornada de usuário
-* Criação de banco de dados
-* Desenvolvimento de APIs (RestFul)
-* Prototipação (figma)
-* Desenvolvimento (flutter)
-* Validação com os stakeholders (durante todo o processo)
+---
 
-## 🚀 Atualmente me aventurando com
-* Flutter
+## 🎓 Formações e certificações
+- Ciência da computação - Uniamérica (Conclusão em 2026)
+- Azure AI-900 - Microsoft (2024)
+- Ciência de dados - Tripleten (2022)
+- Design Industrial - UNIFOA (2016)
 
-## 🦉 Ja me aventurei com
-* [Inteligência artificial e modelos LLM open-source](https://github.com/lucas-mithidieri/langchain/tree/main)
-* AI Cloud computing Microsoft
-* Python (Machine Learning, Deep Learning)
-* Banco de dados - SQL, SOAP
-* Desenvolvimento Web - CSS, HTML, JavaScript, PHP
-* Ada, AutoLISP
-* C++, C#, Cuda
 
-## ☄️ Projetos
-* [Data Science, Analytics e Machine Learning](https://github.com/lucas-mithidieri/projetos)
-* [PYIDE - IDE python](https://github.com/lucas-mithidieri/projetos-pessoais/tree/main/PYIDE)
 
-## 💎 Diferenciais
-* Design thinking
-* UX design/writing
-* Inglês avançado (técnico), intermediário (conversação)
+## 💼 Atuação profissional
+
+**Cargo atual**: Desenvolvedor Full-Stack  
+**Local**: Indústria de médio porte, São Paulo  
+
+**Responsabilidades**:
+- Concepção de jornadas de usuário
+- Modelagem e criação de bancos de dados
+- Desenvolvimento de APIs RESTful
+- Prototipação com Figma
+- Desenvolvimento de aplicações em Flutter
+- Validação contínua com usuários
+
+---
+
+## 🚀 Explorando atualmente
+- Desenvolvimento mobile com **Flutter**
+- Integrações com modelos LLM e IA local
+
+## 🧠 Experiências anteriores
+- Python (incluindo ML e Deep Learning)
+- Cloud Computing (Microsoft Azure para IA)
+- Desenvolvimento Web (HTML, CSS, JS, PHP)
+- SQL e SOAP
+- Linguagens: Ada, AutoLISP, C++, C#, CUDA
+
+---
+
+## 📌 Projetos em destaque
+
+- **PYIDE** – Uma IDE Python voltada à produtividade e extensibilidade  
+- **Ferramentas de Análise de Dados** – Projetos com foco em Data Science e Machine Learning  
+- **Plugin de Engenharia AutoCAD** – Co-fundador de ferramenta no setor de engenharia
+
+---
+
+## 💡 Diferenciais
+
+- Pensamento orientado a produto e usuário (Design Thinking)
+- Arquitetura UX
+- Inglês técnico avançado | Conversação B2
+
+---
 
 ## ✨ Curiosidades
-1. __Trabalho voluntário__ como UX designer atualmente em uma comunidade cristã Coreana em SP
-2. Faço parte de uma comunidade cristã Coreana e Estou aprendendo Coreano (nível básico)
-3. Meu hobby é fotografia urbana e abstrata. (@another.eu)
-4. Sou Designer Industrial (bacharel).
-5. Sou minimalista (mas umas cores na parede acho legal).
-6. Você encontra vários assuntos na minha livraria, de tecnologia até área da saúde.
-7. Fui cofundador de um plugin de AutoCAD no ramo da engenharia.
 
-## 📫 Fale comigo [aqui](https://www.linkedin.com/in/lucas-mithidieri-pires/) 
-Fique à vontade para se conectar e trocar experiências! 
+- Fui voluntário em design UX em uma comunidade cristã coreana em São Paulo.
+- Viciado em ler reviews de artigos científicos sobre IA principalmente.
 
-Obrigado, Thank you, 감사합니다 !
-<!--
-**lucas-mithidieri/lucas-mithidieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
+
+## 📫 Contato
+
+Sinta-se à vontade para se conectar ou trocar experiências.  
+**Email**: [mithidierilucas@gmail.com](mailto:mithidierilucas@gmail.com)  
+
+---
+
+_Obrigado_
