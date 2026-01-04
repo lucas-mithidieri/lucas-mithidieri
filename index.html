@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lucas Mithidieri | Fullstack Developer</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="rectangle navbar always-on-top no-border">
+      <div class="width-900 layout-horizontal margin-auto">
+        <a href="javascript:void(0)"> Lucas Mithidieri Pires</a>
+        <div class="layout-horizontal right-aligned">
+          <span class="combo">
+            <img src="globe.svg" height="10pt" alt="" />
+            <select id="languageSelect">
+              <option value="en">English</option>
+              <option value="pt">Português</option>
+            </select>
+          </span>
+          <button class="margin-left-auto" data-i18n="contact_btn">
+            Contact-me
+          </button>
+          <a id="mailto" href="mailto:seuemail@dominio.com" style="display: none;"></a>
+          <script>
+            document.querySelector('[data-i18n="contact_btn"]').addEventListener('click', function () {
+              document.getElementById('mailto').click();
+            });
+          </script>
+        </div>
+      </div>
+    </div>
+
+    <div class="rectangle margin-auto width-900 content-area">
+      <div class="rectangle no-border about-me">
+        <img class="profile-photo" src="pf.png" alt="Foto de perfil" />
+
+        <h3 data-i18n="about_title">About-me</h3>
+        <p>
+          <b data-i18n="about_bold">Passionate Junior Full Stack Developer</b>
+          <span data-i18n="about_text_main">
+            focused on mobile and desktop systems, with experience in both
+            frontend and backend development, RESTful APIs, and system
+            integration.
+          </span>
+          <span class="hide-sm" data-i18n="about_text_extra">
+            I help develop well-structured and maintainable solutions, combining
+            business logic, automation, and data.
+          </span>
+        </p>
+      </div>
+
+      <div class="rectangle no-border text-align-center projects">
+        <h2 data-i18n="projects_title">Professional projects</h2>
+        <p data-i18n="projects_subtitle">
+          Awesome projects I’ve been involved in, from mobile and desktop apps to
+          backend systems.
+        </p>
+      </div>
+
+      <div class="rectangle layout-horizontal horizontal-spacing-5 no-border tags-scroll">
+        <div class="rectangle rounded">
+          <a href="javascript:void(0)"><span>Flutter</span></a>
+        </div>
+
+        <div class="rectangle rounded">
+          <a href="javascript:void(0)"><span>Laravel</span></a>
+        </div>
+
+        <div class="rectangle rounded">
+          <a href="javascript:void(0)"><span>NodeJS</span></a>
+        </div>
+
+        <div class="rectangle rounded">
+          <a href="javascript:void(0)"><span>Docker</span></a>
+        </div>
+
+        <div class="rectangle rounded">
+          <a href="javascript:void(0)">
+            <span>PHP</span>
+          </a>
+        </div>        
+
+        <div class="rectangle rounded">
+          <a href="javascript:void(0)"><span>JS</span></a>
+        </div>
+
+        <div class="rectangle rounded">
+          <a href="javascript:void(0)"><span>Python</span></a>
+        </div>
+
+        <div class="rectangle rounded">
+          <a href="javascript:void(0)"><span>OSRM</span></a>
+        </div>
+
+        <div class="rectangle rounded">
+          <a href="javascript:void(0)"><span>Figma</span></a>
+        </div>
+      </div>
+
+      <div class="rectangle no-border project-scroller">
+        <h4>Mobile & Desktop Applications</h4>
+
+        <button class="gallery-btn prev"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M10.8284 12.0007L15.7782 16.9504L14.364 18.3646L8 12.0007L14.364 5.63672L15.7782 7.05093L10.8284 12.0007Z"></path></svg></button>
+        
+        <div class="rectangle layout-horizontal scroll-horizontal">
+          <a href="javascript:void(0)">
+            <div class="rectangle rounded project-img" style="padding: 0; background-image: url('project-erp.png')"></div>
+            <div class="project-short-description">
+              <span class="description">ERP Management</span>
+              <span class="stack">Laravel, PHP, JS, SQL</span>
+            </div>
+          </a>   
+
+          <a class="" href="javascript:void(0)">
+            <div class="rectangle rounded project-img" style="padding: 0; background-image: url('project-hmi.png')"></div>
+            <div class="project-short-description">
+              <span class="description">Remote Machine Control</span>
+              <span class="stack">Flutter, Modbus</span>
+            </div>
+          </a>
+
+          <a href="javascript:void(0)">
+            <div class="rectangle rounded project-img" style="padding: 0; background-image: url('project-coil-stock.png')"></div>
+            <div class="project-short-description">
+              <span class="description">Factory Stock Control App</span>
+              <span class="stack">Flutter</span>
+            </div>
+          </a>  
+
+          <a href="javascript:void(0)">
+            <div class="rectangle rounded project-img" style="padding: 0; background-image: url('project-stock-control.png')">
+            </div>
+            <div class="project-short-description">
+              <span class="description">Warehouse Stock Control App</span>
+              <span class="stack">Flutter</span>
+            </div>
+          </a>                          
+        </div>
+
+        <button class="gallery-btn next"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M10.8284 12.0007L15.7782 16.9504L14.364 18.3646L8 12.0007L14.364 5.63672L15.7782 7.05093L10.8284 12.0007Z"></path></svg></button>
+      </div>
+
+      <div class="rectangle no-border project-scroller">
+        <h4>Backend & APIs</h4>
+
+        <button class="gallery-btn prev"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M10.8284 12.0007L15.7782 16.9504L14.364 18.3646L8 12.0007L14.364 5.63672L15.7782 7.05093L10.8284 12.0007Z"></path></svg></button>
+
+        <div class="rectangle layout-horizontal scroll-horizontal">
+          <a href="javascript:void(0)">
+            <div class="rectangle rounded project-img" style="padding: 0; background-image: url('project-apis.png')"></div>
+            <div class="project-short-description">
+              <span class="description">Multi-Service API</span>
+              <span class="stack">Docker, NodeJS, Traefik</span>
+            </div>
+          </a>
+
+          <a href="javascript:void(0)">
+            <div class="rectangle rounded project-img" style="padding: 0; background-image: url('project-location-api.png')"></div>
+            <div class="project-short-description">
+              <span class="description">Routing Engine API</span>
+              <span class="stack">NodeJS, Python, Google OR-Tools</span>
+            </div>
+          </a>
+
+          <a href="javascript:void(0)">
+            <div class="rectangle rounded project-img" style="padding: 0; background-image: url('project-stock-api.png')"></div>
+            <div class="project-short-description">
+              <span class="description">Stock Control API</span>
+              <span class="stack">NodeJS, Swagger</span>
+            </div>
+          </a>
+        </div>
+
+        <button class="gallery-btn next"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M10.8284 12.0007L15.7782 16.9504L14.364 18.3646L8 12.0007L14.364 5.63672L15.7782 7.05093L10.8284 12.0007Z"></path></svg></button>
+      </div>
+
+      <div class="rectangle no-border project-scroller">
+        <h4>Personal</h4>
+
+        <button class="gallery-btn prev"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M10.8284 12.0007L15.7782 16.9504L14.364 18.3646L8 12.0007L14.364 5.63672L15.7782 7.05093L10.8284 12.0007Z"></path></svg></button>
+
+        <div class="rectangle layout-horizontal scroll-horizontal">
+          <a href="javascript:void(0)">
+            <div class="rectangle rounded project-img" style="padding: 0; background-image: url('project-nvidia-calculator.png')">
+            </div>
+            <div class="project-short-description">
+              <span class="description">NVIDIA GPU Compute Calculator</span>
+              <span class="stack">Flutter</span>
+            </div>
+          </a>
+
+          <a href="javascript:void(0)">
+            <div class="rectangle rounded project-img" style="padding: 0; background-image: url('project-pyide.png')">
+            </div>
+            <div class="project-short-description">
+              <span class="description">PYIDE – A Python Lightweight IDE</span>
+              <span class="stack">Python, Tkinter</span>
+            </div>
+          </a>          
+        </div>
+
+        <button class="gallery-btn next"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M10.8284 12.0007L15.7782 16.9504L14.364 18.3646L8 12.0007L14.364 5.63672L15.7782 7.05093L10.8284 12.0007Z"></path></svg></button>
+      </div>
+    </div>
+
+    <div class="rectangle layout-horizontal align-center footer">
+      <span><span id="cdate">202x</span> Lucas Mithidieri - Made with <img src="heart.png" alt="love"></span>
+    </div>
+
+    <script>
+      const ano = new Date().getFullYear();
+      const dateSpan = document.getElementById("cdate");
+      dateSpan.textContent = ano;
+
+      function showTab(index) {
+        const tabs = document.querySelectorAll(".tab-component .tab");
+        const buttons = document.querySelectorAll(".tab-navigation button");
+
+        tabs.forEach((tab, i) => tab.classList.toggle("active", i === index));
+        buttons.forEach((btn, i) =>
+          btn.classList.toggle("active", i === index)
+        );
+      }
+
+      const select = document.getElementById("languageSelect");
+      function updateSelectWidth() {
+        const tempSpan = document.createElement("span");
+        tempSpan.style.visibility = "hidden";
+        tempSpan.style.position = "absolute";
+        tempSpan.style.whiteSpace = "nowrap";
+        tempSpan.style.font = getComputedStyle(select).font;
+        tempSpan.textContent = select.options[select.selectedIndex].text;
+
+        document.body.appendChild(tempSpan);
+
+        select.style.width = tempSpan.offsetWidth + 24 + "px";
+
+        document.body.removeChild(tempSpan);
+      }
+
+      select.addEventListener("change", updateSelectWidth);
+
+      // Ajusta ao carregar a página
+      updateSelectWidth();
+    </script>
+    
+  <script>
+    const i18n = {
+      en: {
+        contact_btn: "Contact me",
+        about_title: "About me",
+        about_bold: "Passionate Junior Full Stack Developer",
+        about_text_main:
+          "focused on mobile and desktop systems, with experience in both frontend and backend development, RESTful APIs, and system integration.",
+        about_text_extra:
+          "I help develop well-structured and maintainable solutions, combining business logic, automation, and data.",
+        projects_title: "Professional projects",
+        projects_subtitle:
+          "Awesome projects I’ve been involved in, from mobile and desktop apps to backend systems."
+      },
+      pt: {
+        contact_btn: " Contato ",
+        about_title: "Sobre mim",
+        about_bold: "Desenvolvedor Full Stack Júnior apaixonado",
+        about_text_main:
+          "com foco em sistemas mobile e desktop, experiência em frontend e backend, APIs RESTful e integração de sistemas.",
+        about_text_extra:
+          "Atuo no desenvolvimento de soluções bem estruturadas e fáceis de manter, unindo lógica de negócio, automação e dados.",
+        projects_title: "Projetos profissionais",
+        projects_subtitle:
+          "Projetos incríveis dos quais participei, desde aplicações mobile e desktop até sistemas backend."
+      }
+    };
+
+    function applyLanguage(lang) {
+      const dict = i18n[lang];
+      if (!dict) return;
+
+      document.querySelectorAll("[data-i18n]").forEach(el => {
+        const key = el.dataset.i18n;
+        if (dict[key]) el.textContent = dict[key];
+      });
+
+      localStorage.setItem("lang", lang);
+      document.documentElement.lang = lang;
+    }
+
+    const langSelect = document.getElementById("languageSelect");
+
+    langSelect.addEventListener("change", () => {
+      applyLanguage(langSelect.value);
+    });
+
+    const savedLang = localStorage.getItem("lang") || langSelect.value;
+    langSelect.value = savedLang;
+    applyLanguage(savedLang);
+  </script>
+
+
+  <script>
+    function setupGallery(scroller) {
+      const container = scroller.querySelector(".scroll-horizontal");
+      const prevBtn = scroller.querySelector(".gallery-btn.prev");
+      const nextBtn = scroller.querySelector(".gallery-btn.next");
+
+      function hasOverflow() {
+        return container.scrollWidth > container.clientWidth;
+      }
+
+      function updateButtons() {
+        const atStart = container.scrollLeft <= 1;
+        const atEnd =
+          container.scrollLeft + container.clientWidth >=
+          container.scrollWidth - 1;
+
+        prevBtn.style.display = atStart ? "none" : "block";
+        nextBtn.style.display = atEnd ? "none" : "block";
+      }
+
+      // Se não houver overflow real, esconde tudo
+      if (!hasOverflow()) {
+        prevBtn.style.display = "none";
+        nextBtn.style.display = "none";
+        return;
+      }
+
+      // Estado inicial
+      updateButtons();
+
+      nextBtn.addEventListener("click", () => {
+        container.scrollBy({
+          left: container.clientWidth,
+          behavior: "smooth",
+        });
+      });
+
+      prevBtn.addEventListener("click", () => {
+        container.scrollBy({
+          left: -container.clientWidth,
+          behavior: "smooth",
+        });
+      });
+
+      // Atualiza estado após scroll manual ou animado
+      container.addEventListener("scroll", () => {
+        requestAnimationFrame(updateButtons);
+      });
+    }
+
+    document
+      .querySelectorAll(".project-scroller")
+      .forEach(setupGallery);
+  </script>
+
+  <div class="language-modal" id="languageModal">
+    <div class="language-modal-content">
+      <h3>Select a language</h3>
+      <button data-lang="en">English (US)</button>
+      <button data-lang="pt">Português (BR)</button>
+    </div>
+  </div>
+
+  <script>
+    const selectModal = document.getElementById("languageSelect");
+    const modal = document.getElementById("languageModal");
+
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
+    // Intercepta clique no select em mobile
+    selectModal.addEventListener("mousedown", (e) => {
+      if (isMobile()) {
+        e.preventDefault();
+        modal.classList.add("show");
+      }
+    });
+
+    // Clique nas opções do modal
+    modal.querySelectorAll("button[data-lang]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const lang = btn.dataset.lang;
+        selectModal.value = lang;
+        selectModal.dispatchEvent(new Event("change"));
+        modal.classList.remove("show");
+      });
+    });
+  </script>
+
+  </body>
+</html>
